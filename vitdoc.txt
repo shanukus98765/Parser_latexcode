@@ -1,0 +1,20 @@
+\documentclass{vitmsprojectreport}
+\begin{document}
+\makestartingpages
+{Your_Project_Title}
+{Your_Name}{Your_RegNo}
+{Guide_Name}{Guide_Title}
+{Dean_Name}
+{Program_Manager_Name}
+{Year_Co-ordinator_Name}
+{
+Your_Executive_Summary_goes_here.
+}
+\chapter{Introduction}
+\chapter{Literature Review/Background}
+\chapter{Proposed Framework/System Architecture}
+\chapter{Experimental Evaluation}
+\chapter{Testing}
+\section{Test Plan}
+\section{Test Report}
+\chapter{Conclusion and Future Work}
