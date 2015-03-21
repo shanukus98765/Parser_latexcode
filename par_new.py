@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+"""importing the re module and the Node and Tree classes from a separate place"""
+
 import re
 from new_tree import Node, Tree
 
